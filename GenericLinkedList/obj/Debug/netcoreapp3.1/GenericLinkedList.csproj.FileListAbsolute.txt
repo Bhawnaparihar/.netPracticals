@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.exe
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.deps.json
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.dll
+C:\Users\RAJEEV\source\repos\GenericLinkedList\bin\Debug\netcoreapp3.1\GenericLinkedList.pdb
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.dll
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.pdb
+C:\Users\RAJEEV\source\repos\GenericLinkedList\obj\Debug\netcoreapp3.1\GenericLinkedList.genruntimeconfig.cache

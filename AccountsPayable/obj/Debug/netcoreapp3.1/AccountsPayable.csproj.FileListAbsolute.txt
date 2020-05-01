@@ -1,0 +1,9 @@
+C:\Users\RAJEEV\source\repos\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.deps.json
+C:\Users\RAJEEV\source\repos\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.dll
+C:\Users\RAJEEV\source\repos\AccountsPayable\bin\Debug\netcoreapp3.1\AccountsPayable.pdb
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.dll
+C:\Users\RAJEEV\source\repos\AccountsPayable\obj\Debug\netcoreapp3.1\AccountsPayable.pdb
