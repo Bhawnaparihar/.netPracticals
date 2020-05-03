@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.exe
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.deps.json
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.dll
+C:\Users\RAJEEV\source\repos\SampleEvents\bin\Debug\netcoreapp3.1\SampleEvents.pdb
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.dll
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.pdb
+C:\Users\RAJEEV\source\repos\SampleEvents\obj\Debug\netcoreapp3.1\SampleEvents.genruntimeconfig.cache

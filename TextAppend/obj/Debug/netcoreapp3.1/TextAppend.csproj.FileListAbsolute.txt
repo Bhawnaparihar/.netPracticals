@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.exe
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.deps.json
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.dll
+C:\Users\RAJEEV\source\repos\TextAppend\bin\Debug\netcoreapp3.1\TextAppend.pdb
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.dll
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.pdb
+C:\Users\RAJEEV\source\repos\TextAppend\obj\Debug\netcoreapp3.1\TextAppend.genruntimeconfig.cache
