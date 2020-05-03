@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.exe
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.deps.json
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.dll
+C:\Users\RAJEEV\source\repos\ExceptionTest\bin\Debug\netcoreapp3.1\ExceptionTest.pdb
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.dll
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.pdb
+C:\Users\RAJEEV\source\repos\ExceptionTest\obj\Debug\netcoreapp3.1\ExceptionTest.genruntimeconfig.cache

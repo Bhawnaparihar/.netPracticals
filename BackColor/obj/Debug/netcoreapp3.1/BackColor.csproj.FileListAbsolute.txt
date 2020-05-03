@@ -1,0 +1,14 @@
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.exe
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.dll.config
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.deps.json
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.dll
+C:\Users\RAJEEV\source\repos\BackColor\bin\Debug\netcoreapp3.1\BackColor.pdb
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.dll
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.pdb
+C:\Users\RAJEEV\source\repos\BackColor\obj\Debug\netcoreapp3.1\BackColor.genruntimeconfig.cache
