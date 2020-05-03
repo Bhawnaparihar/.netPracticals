@@ -1,0 +1,4 @@
+C:\Users\RAJEEV\source\repos\GetWindowsIdentity\obj\Debug\netcoreapp3.1\GetWindowsIdentity.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\GetWindowsIdentity\obj\Debug\netcoreapp3.1\GetWindowsIdentity.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\GetWindowsIdentity\obj\Debug\netcoreapp3.1\GetWindowsIdentity.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\GetWindowsIdentity\obj\Debug\netcoreapp3.1\GetWindowsIdentity.AssemblyInfo.cs

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RijndaelAlgorithm", "RijndaelAlgorithm.csproj", "{A47DAC22-FC9D-470D-AE82-8F1221C44A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47DAC22-FC9D-470D-AE82-8F1221C44A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47DAC22-FC9D-470D-AE82-8F1221C44A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47DAC22-FC9D-470D-AE82-8F1221C44A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47DAC22-FC9D-470D-AE82-8F1221C44A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7320957D-93F2-4E76-97D3-43CD500C78B1}
+	EndGlobalSection
+EndGlobal
