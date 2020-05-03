@@ -1,0 +1,13 @@
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.exe
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.deps.json
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.runtimeconfig.json
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.runtimeconfig.dev.json
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.dll
+C:\Users\RAJEEV\source\repos\TypedXmlData\bin\Debug\netcoreapp3.1\TypedXmlData.pdb
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.csprojAssemblyReference.cache
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.csproj.CoreCompileInputs.cache
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.AssemblyInfoInputs.cache
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.AssemblyInfo.cs
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.dll
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.pdb
+C:\Users\RAJEEV\source\repos\TypedXmlData\obj\Debug\netcoreapp3.1\TypedXmlData.genruntimeconfig.cache
